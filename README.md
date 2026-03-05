@@ -578,4 +578,9 @@ Research Paper:
 
 ---
 
-> 📚 **Source:** Krish Naik — Generative AI Playlist (Videos 103, 104)
+> 📚 **Source:** Krish Naik — Generative AI Playlist 
+
+
+----
+Day - 3 
+
